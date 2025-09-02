@@ -9,3 +9,13 @@ main = "_worker.js"
 
 # 兼容性日期
 compatibility_date = "2025-09-02"
+
+# 绑定KV空间
+[[kv_namespaces]]
+binding = "kv"
+id = "panel"
+
+# 设置变量
+# [vars]
+# TR_PASSWORD =
+# UUID
