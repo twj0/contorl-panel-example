@@ -19,3 +19,7 @@ id = "b18adef88fc448f781526d80c87da6cb"
 [vars]
 TR_PASS = "test"
 UUID = "64176e35-df23-4b0c-a4a3-bfa391f10bf1"
+
+# wrangler.toml (wrangler v3.88.0^)
+[observability.logs]
+enabled = false
