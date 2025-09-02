@@ -1,0 +1,11 @@
+# wrangler.toml
+
+# 您可以将其更改为您喜欢的任何名称
+name = "controlpanel"
+
+# 请确保这里的文件名和您仓库中的实际脚本文件名一致
+
+main = "_worker.js"
+
+# 兼容性日期
+compatibility_date = "2025-09-02"
