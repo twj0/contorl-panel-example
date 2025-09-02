@@ -17,5 +17,5 @@ id = "b18adef88fc448f781526d80c87da6cb"
 
 # 设置变量
 [vars]
-TR_PASSWORD = "test"
+Trojan Password = "test"
 UUID = "64176e35-df23-4b0c-a4a3-bfa391f10bf1"
