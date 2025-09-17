@@ -1,7 +1,7 @@
 # wrangler.toml
 
 # 您可以将其更改为您喜欢的任何名称
-name = "controlpanel"
+name = "contorlpanel"
 
 # 请确保这里的文件名和您仓库中的实际脚本文件名一致
 
